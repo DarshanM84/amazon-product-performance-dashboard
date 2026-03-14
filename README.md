@@ -9,7 +9,7 @@ The dashboard provides insights into product sales, pricing strategies, discount
 
 ### Page 1: Product Performance
 
-![Dashboard Page 1](images/Live1.png)
+![Dashboard Page 1](images/live1.png)
 
 ---
 
